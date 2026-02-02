@@ -4,6 +4,10 @@ This document complements the demonstration video associated with this directory
 
 The video already narrates the method in detail.  
 The purpose of this README is to **clarify context, scope, and intent** — not to repeat the narration.
+## Video demonstration
+
+https://vimeo.com/1161244429
+
 
 ---
 
@@ -116,3 +120,4 @@ This case shows that architectural ideas can be:
 
 This reinforces the ESPP philosophy:
 architecture is first a spatial idea — not a sequence of software commands.
+
